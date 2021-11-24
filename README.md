@@ -1,4 +1,4 @@
-# token
+# token(FAV)
 
 pragma solidity ^0.4.0;
 
